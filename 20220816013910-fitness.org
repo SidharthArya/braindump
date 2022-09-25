@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5a6bc62e-7b6c-42c7-8800-cbf18e417b24
+:END:
+#+title: Fitness
+#+filetags: :fitness:
+
+* Weight Training
+:PROPERTIES:
+:ID:       8319040c-0dbf-461c-b601-1ec4fab9d68b
+:END:
+
+* Yoga
+:PROPERTIES:
+:ID:       d8c6bfe1-60b7-49c4-a4e4-89692b219c26
+:END:
+
+
+* Gymnastics
+:PROPERTIES:
+:ID:       cdbbc525-95c8-49eb-a73a-30f2e3c60247
+:END:
+

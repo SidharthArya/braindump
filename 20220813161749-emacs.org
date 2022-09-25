@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       446ffadd-ce25-4280-b6ee-dbc7c010cb77
+:ROAM_REFS: https://www.gnu.org/software/emacs/
+:END:
+#+title: Emacs
+
+* Org Mode                                                       :Notetaking:
+:PROPERTIES:
+:ID:       e80626ad-6c12-4ddc-9fe1-2a51e136f1b3
+:ROAM_REFS: https://orgmode.org/
+:END:
+** Org Roam                                         :Zettelkasten:Notetaking:
+:PROPERTIES:
+:ID:       1dd1a32b-b147-49f2-b289-c0a7c439a8f7
+:ROAM_REFS: https://www.orgroam.com/
+:END:
+Inspired from [[id:a11217ac-536b-4156-8dba-11274d01fdb8][Roam Research]], [[id:cab366f8-6204-4dbb-a201-35f807bd3423][Zettelkasten Method]]

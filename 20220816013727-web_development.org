@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f6a20d0e-e306-4699-816f-7c78b6dd40a4
+:END:
+#+title: Web Development
+
+* Backend
+:PROPERTIES:
+:ID:       09744e38-df07-4560-9ddf-ba1955fa1186
+:END:
+* Frontend
+:PROPERTIES:
+:ID:       4b0fcbdd-1d38-428f-96e7-f6858b77237b
+:END:
+* Tools
++ For JSON Visualization - https://jsoncrack.com/

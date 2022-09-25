@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       89de8adb-cf4b-45a8-ae27-519fe01781ce
+:END:
+#+title: Version Control
+
++ [[id:92499500-e835-491d-9a18-9c5b13f969d5][Git]]

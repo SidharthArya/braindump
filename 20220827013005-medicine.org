@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       a6223111-6aff-4618-abd1-a4726d4e541d
+:END:
+#+title: Medicine
+
+* Salts
+** Antibiotics
+:PROPERTIES:
+:ID:       f1221151-bb60-4a0e-aaa6-4ffee34a5898
+:END:
+*** Fluoaroquinolone Antibiotics
+:PROPERTIES:
+:ID:       0c58034c-b8ac-40d3-97e8-aac4266fb41c
+:END:
+**** Ofloxacin
+:PROPERTIES:
+:ID:       3ed79659-cc10-4383-90f2-96e6b9e26ba7
+:END:
+For [[id:bbf28fb6-ecc4-449e-a5f4-ea9538dd1c36][Bacterial]] Infections
+*** Other
+**** Ornidazole
+:PROPERTIES:
+:ID:       5f271eda-a5be-4ca7-bc3c-012956138ac6
+:END:
+Deals with [[id:96b1bd5c-67c3-412d-b29c-bc01dc62d179][Protozoan]] Infections
+** Other
+*** Paracetamol
+:PROPERTIES:
+:ID:       9c8d27ca-e4fb-4030-bf70-488eb4f5ddc2
+:ROAM_ALIASES: acetaminophen
+:END:

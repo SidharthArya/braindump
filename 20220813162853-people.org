@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e1ee1e9c-a01e-46b8-829b-fa5cd0712227
+:END:
+#+title: People
+
+* Sociologist
+:PROPERTIES:
+:ID:       f69b25d2-ef1f-4ecb-962b-b372b612f06f
+:END:
+** Niklas Luhmann
+:PROPERTIES:
+:ID:       675c9491-07c3-44a8-80ca-c5dbd561da99
+:END:
+
+** Emile Durkheim
+:PROPERTIES:
+:ID:       11ae4b15-c7d8-456c-98b5-9f7b1c3fad18
+:END:
+* Authors
+** Tony Robbins
+:PROPERTIES:
+:ID:       96fee072-e708-4a11-839a-02c2a6829bdd
+:END:

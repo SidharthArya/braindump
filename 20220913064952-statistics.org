@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5c735cee-ab10-4909-af55-ebde531ecb7b
+:END:
+#+title: Statistics
+
+* Statistical Measures
+:PROPERTIES:
+:ID:       ee33590d-7479-4aa4-8507-cedaf0fd1dfb
+:END:
+** R squared
+:PROPERTIES:
+:ID:       e4d52215-7deb-4ee0-833b-bde5718120d3
+:ROAM_ALIASES: R^{2}
+:END:
+
+#+begin_equation
+
+#+end_equation

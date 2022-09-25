@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       92499500-e835-491d-9a18-9c5b13f969d5
+:END:
+#+title: Git
+
+* Hunk wise add
+#+BEGIN_SRC bash
+git commit -p file-name
+#+END_SRC

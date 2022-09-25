@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f7bca5a8-db7e-4397-a0ea-a546c42c4345
+:END:
+#+title: Software
+
+* Note Taking
+** Roam Research
+:PROPERTIES:
+:ID:       a11217ac-536b-4156-8dba-11274d01fdb8
+:END:

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ba22b47b-fcfb-4304-bcca-110dd2f7384a
+:END:
+#+title: Security
+
+
+* Application Security
+:PROPERTIES:
+:ID:       6b04e3d3-67be-4a13-a355-b412aa7eeb5f
+:END:
+** References
++ [[https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist][Awesome-Application-Security-Checklist]]

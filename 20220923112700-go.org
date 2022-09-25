@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b1c9b35c-c79a-4a76-aeb5-bea48d9a8805
+:END:
+#+title: Go
+
+* Resources
++ [[https://github.com/inancgumus/learngo][learngo]]

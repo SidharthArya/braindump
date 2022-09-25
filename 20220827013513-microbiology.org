@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8de8e7fc-8e6d-4922-a7fa-7dcdf00496bb
+:END:
+#+title: Microbiology
+#+filetags: :microbiology:
+
+* Bacteria
+:PROPERTIES:
+:ID:       bbf28fb6-ecc4-449e-a5f4-ea9538dd1c36
+:END:
+
+* Protozoa
+:PROPERTIES:
+:ID:       96b1bd5c-67c3-412d-b29c-bc01dc62d179
+:END:

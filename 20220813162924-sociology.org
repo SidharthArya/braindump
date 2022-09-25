@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       34ff5de3-c9e6-4d79-b46d-de66fd85b1cd
+:END:
+#+title: Sociology
+#+filetags: :sociology:
+
+
+* System Theory                                                  
+:PROPERTIES:
+:ID:       50d80de5-7a61-4458-a46d-a1519bf53229
+:END:
+
+Given by [[id:675c9491-07c3-44a8-80ca-c5dbd561da99][Niklas Luhmann]]

@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       7d04c759-e8f7-4ef1-9d4d-7516b940cc9c
+:END:
+#+title: Psychology
+
+* Gaslighting
+:PROPERTIES:
+:ID:       1ff25d96-cdba-4a2d-8066-bfdcfccf576d
+:END:
+* Narcissism
+:PROPERTIES:
+:ID:       f8c20af0-cf20-4ec5-8c8c-119fda8ca467
+:END:
+* Takotsubo Syndrome
+:PROPERTIES:
+:ID:       cb5b3b90-27c6-4f6f-8255-68d3a97d6919
+:END:
+Takotsubo cardiomyopathy is a temporary heart condition that develops in response to an intense emotional or physical experience.
+* Forensic Psychology
+:PROPERTIES:
+:ID:       78a5679b-8be2-442b-b7b7-a75cd9691b84
+:END:
+Forensic psychology involves the application of psychological knowledge and methods to help answer legal questions arising in civil or criminal proceedings.
+
+* Positive Psychology
+:PROPERTIES:
+:ID:       69aff86f-6ab8-4e2a-b8ea-1d76ede8290c
+:END:
+* Though Postponement
+:PROPERTIES:
+:ID:       2139ee33-d3dc-430a-a1a0-e1921b098bfd
+:END:

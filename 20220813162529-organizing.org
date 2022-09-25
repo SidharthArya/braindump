@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45a6cfc0-f1e4-45a5-87fc-2a59ded5709b
+:END:
+#+title: Organizing
+
+* Thoughts
+** Zettelkasten Method
+:PROPERTIES:
+:ID:       cab366f8-6204-4dbb-a201-35f807bd3423
+:END:
+attributed to [[id:675c9491-07c3-44a8-80ca-c5dbd561da99][Niklas Luhmann]]

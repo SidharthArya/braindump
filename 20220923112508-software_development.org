@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d4e0298f-9a8c-4a40-b084-4460cd1bbd6a
+:END:
+#+title: Software Development
+
+* References
++ [[https://github.com/yangshun/tech-interview-handbook][Curated coding interview preparation materials for busy software engineers]]
++ [[https://github.com/freeCodeCamp/freeCodeCamp][freeCodeCamp codebase and curriculum]]

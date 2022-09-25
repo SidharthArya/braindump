@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       99885afc-5387-4470-884d-8df499d94494
+:END:
+#+title: Operating System
+#+filetags: :os:
+
+* Microsoft Windows
+:PROPERTIES:
+:ID:       0beb0351-97cb-477c-b0b9-9d566c74688c
+:END:
+
+* Linux
+:PROPERTIES:
+:ID:       56a9b5ff-a716-4e66-a881-335f689a2518
+:END:
+** Systemd
+:PROPERTIES:
+:ID:       0ced8023-cbd5-4800-b4fb-2d71a5a084a0
+:END:
+* Mac OSx
+:PROPERTIES:
+:ID:       032083ee-bed8-406d-abf3-1629231bebe4
+:END:
+** Launchctl
+:PROPERTIES:
+:ID:       ea2f4360-caea-4b4b-a506-e26242561b8c
+:END:
+* BSD
+:PROPERTIES:
+:ID:       ecc2f8ed-09f1-4f89-83e6-674c457817c8
+:END:

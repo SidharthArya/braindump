@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a19ea885-8ede-481f-8f87-f2d760c16da2
+:END:
+#+title: Javascript
+
+* Web APIS
+
+* References
++ [[https://github.com/lydiahallie/javascript-questions][javascript-questions]]
++ [[https://github.com/TheAlgorithms/JavaScript][Javascript Algorithms]]

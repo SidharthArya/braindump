@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       a29d741b-3615-41bf-9945-216773effa2e
+:END:
+#+title: Evaluation Metrics
+#+filetags: :metrics:
+
+* Regression
+** Mean Absolute Error
+:PROPERTIES:
+:ID:       3e275b1e-dee4-4e2d-ab29-6837073dd866
+:END:
+** Mean Squared Error
+:PROPERTIES:
+:ID:       f16ce6d3-77a4-4ff3-8c9b-300659dabc89
+:END:
+** Root Mean Squared Error
+:PROPERTIES:
+:ID:       bac197e3-70ec-41a5-84e0-6fec96f1fd71
+:END:
+** RMSLE
+:PROPERTIES:
+:ID:       f19fc15f-4cbc-4a15-9a11-a7ddf20e687b
+:END:
+** R Squared
+:PROPERTIES:
+:ID:       d3c21cf1-9c95-47c2-ae14-e503f3e25b3b
+:END:
+** Adjusted R Squares  
+:PROPERTIES:
+:ID:       4f8f596c-7843-4bb6-a494-2176c24862ab
+:END:
+** Kendall Tau Correlation
+:PROPERTIES:
+:ID:       1d93127d-170c-42ef-812f-cd951ba59599
+:END:
