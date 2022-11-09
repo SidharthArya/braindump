@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2dc4305a-65b9-499e-81df-620054e6f507
+:END:
+#+title: Typescript
+
+* Resources
++ https://github.com/total-typescript/beginners-typescript-tutorial
++ https://github.com/type-challenges/type-challenges
++ https://github.com/total-typescript/advanced-patterns-workshop
++ https://github.com/toss/slash

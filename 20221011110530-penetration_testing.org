@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       33c94877-9b44-49ca-b530-7562c1a016f8
+:END:
+#+title: Penetration Testing
+
+
+* Bug Bounty
++ https://github.com/vavkamil/awesome-bugbounty-tools
+
+* Windows
++ https://github.com/t3l3machus/hoaxshell
+
+* Publicly available reports
++ https://github.com/juliocesarfort/public-pentesting-reports

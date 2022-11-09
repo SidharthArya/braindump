@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0b557802-3d86-435f-b8a2-0368e7f7cc74
+:END:
+#+title: Argo Workflows
+

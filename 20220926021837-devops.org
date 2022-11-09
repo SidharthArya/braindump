@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4c876345-0305-465c-acf1-b2137c106259
+:END:
+#+title: Devops
+
+
+
+* Resources
++ https://github.com/MichaelCade/90DaysOfDevOps

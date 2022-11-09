@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ba9aa000-a316-4b93-8684-dcb8b39ecd4c
+:END:
+#+title: Java
+
+* Resources
++ https://github.com/doocs/advanced-java
++ https://github.com/iluwatar/java-design-patterns

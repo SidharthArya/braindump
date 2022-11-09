@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       67ee29cc-1b39-4f8f-bdda-7ecc9b17c18e
+:END:
+#+title: Transformer
+#+filetags: :AI:
+
+* Resources
++ https://github.com/huggingface/transformers
++ https://github.com/cmhungsteve/Awesome-Transformer-Attention

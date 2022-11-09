@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0b1e2e1b-7e1e-495d-a544-d713906c5b53
+:END:
+#+title: Self Driving
+
+* Resources
++ https://github.com/commaai/openpilot

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       94fbe78e-4fa8-44c6-8d58-4e28cbb4d091
+:END:
+#+title: Computer Vision
+
+
+* Tasks
+** Face Restoration
+:PROPERTIES:
+:ID:       2b4122d1-0e13-422c-8f62-449ea8e24f71
+:END:
+*** Resources
++ https://github.com/TencentARC/GFPGAN

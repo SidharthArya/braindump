@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       754edb58-1c56-48ca-beb8-a285fd47b29a
+:END:
+#+title: Rust
+
+* Resources
++ https://github.com/TheAlgorithms/Rust

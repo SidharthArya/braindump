@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       fa0580c9-7947-44c8-bb03-b8077b1f43cd
+:END:
+#+title: Trading
+#+filetags: :trading:
+
+
+* Technical Analysis
+:PROPERTIES:
+:ID:       ac5ed642-406e-43e7-a1ac-63491cf9c423
+:END:
+** Indicators
+:PROPERTIES:
+:ID:       e7eb1604-c4f2-4221-814d-1e0f61832b28
+:END:
+*** William Fractals
+
+* Bot
+
+
+** Projects
++ https://github.com/freqtrade/freqtrade
++ Investment Research - https://github.com/OpenBB-finance/OpenBBTerminal  

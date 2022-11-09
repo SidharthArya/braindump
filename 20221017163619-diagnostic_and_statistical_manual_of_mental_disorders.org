@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       fe4f2772-453f-416d-a139-a0bbe109aa8a
+:ROAM_ALIASES: DSM
+:END:
+#+title: Diagnostic and Statistical Manual of Mental Disorders
+
+
++ [[id:b2503c85-5afa-48c6-a5d9-7e5658d8bcfa][Intellectual Developmental Disorder]]

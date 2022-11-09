@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7e075b5d-67ab-495b-a167-07cf5af0d2f0
+:END:
+#+title: Google
+
+* Protocol Buffers
+** References
++ https://github.com/protocolbuffers/protobuf

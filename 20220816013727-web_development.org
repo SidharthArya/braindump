@@ -11,5 +11,14 @@
 :PROPERTIES:
 :ID:       4b0fcbdd-1d38-428f-96e7-f6858b77237b
 :END:
+
+** TODO Web Assembly
+:PROPERTIES:
+:ID:       d6bfb0d0-2d66-48e1-9af0-d4fcb5344601
+:END:
 * Tools
 + For JSON Visualization - https://jsoncrack.com/
++ For Quick Prototyping - https://stackblitz.com/
+* Notification Management
+** Projects
++ https://github.com/novuhq/novu

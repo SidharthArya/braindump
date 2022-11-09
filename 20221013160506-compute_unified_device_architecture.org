@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       bdb4b954-b9ea-4196-88a5-3b2b0c77c707
+:ROAM_ALIASES: CUDA
+:END:
+#+title: Compute Unified Device Architecture
+CUDA (or Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) that allows software to use certain types of graphics processing units (GPUs) for general purpose processing, an approach called general-purpose computing on GPUs (GPGPU).
+* Resources
++ https://github.com/NVIDIA/cutlass

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       41873dbf-d852-49c8-9cd1-b2f673ac517a
+:END:
+#+title: IOS Development
+
+* Resources
++ https://github.com/danielgindi/Charts

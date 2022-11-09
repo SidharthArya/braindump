@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       29e0c8c9-c8a8-44e2-8270-80e4b31f28b1
+:END:
+#+title: System Design
+
+
+* Resources
++ https://github.com/InterviewReady/system-design-resources
++ https://github.com/karanpratapsingh/system-design

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8d23ba82-11eb-49e7-b53a-0be3343cec7c
+:END:
+#+title: Cloud Services
+
+* Single Interface for all cloud platforms
++ https://github.com/turbot/steampipe

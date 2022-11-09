@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3205a59a-7019-41ef-a0e8-63e9f14c441d
+:END:
+#+title: Knowledge Management
+
+* Methods
++ [[id:cab366f8-6204-4dbb-a201-35f807bd3423][Zettelkasten Method]]
+
+
+* Resources
++ https://github.com/logseq/logseq

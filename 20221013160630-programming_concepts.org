@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b0446c4e-c1e6-4241-88ff-115018b42e16
+:END:
+#+title: Programming Concepts
+
+* Type Safe
+
+ type safety and type soundness are the extent to which a programming language discourages or prevents type errors.
+* Resources
++ https://github.com/itdevbooks/pdf
++ https://github.com/forthespada/CS-Books
++ https://github.com/EbookFoundation/free-programming-books

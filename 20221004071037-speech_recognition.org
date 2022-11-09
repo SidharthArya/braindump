@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       43f62a20-6464-4bfe-b2db-fb6654000a2f
+:END:
+#+title: Speech Recognition
+
+* Projects
++ https://github.com/openai/whisper

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e4588633-6171-45ad-8923-a059b66d27ff
+:ROAM_ALIASES: Cplusplus "C Plus Plus"
+:END:
+#+title: C++
+
+
+
+* Resources
++ [[https://github.com/catchorg/Catch2][Catch2]] - Unit Testing
++ https://github.com/TheAlgorithms/C-Plus-Plus - All Algorithms
+
+* Libraries
++ https://github.com/facebook/folly - Folly

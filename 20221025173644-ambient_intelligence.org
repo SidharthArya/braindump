@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8f188784-5523-43eb-8766-5336f0fd3e1b
+:END:
+#+title: Ambient Intelligence
+Ambient intelligence has been defined as “a digital environment that proactively, but sensibly, supports people in their daily lives”

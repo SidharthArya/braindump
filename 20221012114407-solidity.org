@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       dc2d0d73-ab5a-4190-936b-f82823eab8d8
+:END:
+#+title: Solidity
+
+Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
+
+
+* References
++ https://soliditylang.org/

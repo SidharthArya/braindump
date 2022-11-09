@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a45b15a7-4b62-4fdd-bff4-f5dd86429f2a
+:END:
+#+title: Data Science
+
+* Resources
++ https://github.com/ayush714/data-science-roadmap

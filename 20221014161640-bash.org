@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d26aa3fd-1348-4771-a453-c0c87d5c2dae
+:END:
+#+title: Bash
+
+* References
++ https://github.com/dylanaraps/pure-bash-bible

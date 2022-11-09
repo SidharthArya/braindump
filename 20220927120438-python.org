@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ed4c1cd6-7231-4a4d-a894-d54596bb8e6a
+:END:
+#+title: Python
+
+
+
+* Visual Libraries
++ https://github.com/Textualize/rich
++ https://github.com/Textualize/textual
+* Resources
++ https://github.com/jackfrued/Python-100-Days
++ https://github.com/Asabeneh/30-Days-Of-Python
++ https://github.com/TheAlgorithms/Python

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6bf3a8c2-48ef-4f3b-a230-a4795c9da8fc
+:END:
+#+title: Real Estate
+
+* Resources
++ https://github.com/shengcaishizhan/kkndme_tianya

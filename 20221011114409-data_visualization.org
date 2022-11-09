@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       05124b99-8c8a-437e-ae7b-e08630643a9c
+:END:
+#+title: Data Visualization
+
+* Reources
++ [[id:4c31d4d9-a083-4d28-8819-843708fcab34][ECharts]]
++ [[id:2ae852ce-7bbb-44b4-a998-156a220792a2][Superset]]
++ [[id:28f02371-a11c-43de-bcbf-cad87a94bcc3][Tableau]]

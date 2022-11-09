@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e030d5a9-6dcd-4589-852d-490c24771af9
+:END:
+#+title: Internet Protocol
+
+* Resources
++ https://github.com/iptv-org/iptv

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5b8af9ca-c091-4e1b-951f-b9d785ff5884
+:END:
+#+title: Bitcoin
+
+Uses [[id:e46730c4-446b-405b-bba6-204254eeb1e3][Blockchain]]
+
+* Resources
++ https://github.com/bitcoin/bips - Bitcoin improvement proposals

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e739246d-87f0-4b96-949c-483568b67a89
+:END:
+#+title: Graph Database
+
+* Databases
++ [[id:a91bd0ff-be8f-425e-ad5f-80d924abd349][Surrealdb]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d9471034-ec60-4de1-9c0d-05a2c10e9689
+:END:
+#+title: Object Storage
+
+* Resources
++ https://github.com/minio/minio

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e46730c4-446b-405b-bba6-204254eeb1e3
+:END:
+#+title: Blockchain
+
+* TODO Etherium
+
+* TODO Starknet
+What is cairo ?
+
+* Ressources
++ https://github.com/aptos-labs/aptos-core
++ https://github.com/ethereum-lists/chains

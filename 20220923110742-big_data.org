@@ -7,3 +7,4 @@
 + [[id:50f06fe7-3fd6-4d58-8ee7-ca10d9a357a2][Hive]]
 + [[id:e66c6904-4c9f-4699-b6a0-9f77330b1a31][Hadoop]]
 + [[id:f2cd0b0b-a6e9-48db-93ef-a3f9a0253d8d][Spark]]
++ [[id:8fcd4352-209a-4d50-a493-42577e5027b4][Doris]]

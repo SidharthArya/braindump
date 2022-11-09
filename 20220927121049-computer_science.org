@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       37406c39-4bcf-490b-8a62-8fedc6ff3303
+:END:
+#+title: Computer Science
+
+* References
++ https://github.com/ossu/computer-science
++ https://github.com/CyC2018/CS-Notes

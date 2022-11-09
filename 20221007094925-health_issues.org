@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1cf21d02-01c2-480a-86f2-19bc8a0ad400
+:END:
+#+title: Health Issues
+
+* Spina Bifida
+:PROPERTIES:
+:ID:       6fe35a5d-2431-4b87-8ce3-c392a9c8ef6b
+:END:
+Spina bifida is a birth defect that occurs when the spine and spinal cord don't form properly.

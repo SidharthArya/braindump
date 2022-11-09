@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       bec75403-7cc0-4b98-91b4-aab4bb343ec6
+:ROAM_ALIASES: MLS
+:END:
+#+title: Messaging Layer Security
+
+
+Messaging Layer Security is a security layer for end to end encrypting messages in arbitrary sized groups.
