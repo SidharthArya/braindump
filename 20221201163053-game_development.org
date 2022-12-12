@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0aedd5d5-98a5-4186-a36e-90012739edad
+:END:
+#+title: Game Development
+
+* Resources
++ https://github.com/aseprite/aseprite

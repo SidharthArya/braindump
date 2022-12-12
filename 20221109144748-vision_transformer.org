@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c972fbd2-f7b0-407f-9389-868c29ab6a75
+:END:
+#+title: Vision Transformer
+

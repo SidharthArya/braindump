@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       bb023417-1b1a-46e9-a693-9422bbc6cc34
+:ROAM_REFS: [[cite:&https://doi.org/10.48550/arxiv.2204.12484]]
+:END:
+#+title: ViTPose
+

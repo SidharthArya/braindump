@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f09c12b4-547f-4017-b6ef-f6e133776b88
+:END:
+#+title: Data Exploratory Analysis
+#+filetags: :Data_Science:
+
+* Correlation
+** Pearson's R

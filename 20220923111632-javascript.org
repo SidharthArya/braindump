@@ -9,6 +9,7 @@
 + [[https://github.com/lydiahallie/javascript-questions][javascript-questions]]
 + [[https://github.com/TheAlgorithms/JavaScript][Javascript Algorithms]]
 + https://github.com/getify/You-Dont-Know-JS
-  
++ https://github.com/jonasschmedtmann/complete-javascript-course
+
 * Testing
 + https://github.com/facebook/jest

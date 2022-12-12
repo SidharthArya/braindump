@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3daf9121-37e6-4095-83a4-7f5efc967b42
+:END:
+#+title: Bias
+#+filetags: :Psychology:
+
+* Ambiguity Aversion Bias
+:PROPERTIES:
+:ID:       06d0fb8a-1888-4ebe-8b4e-82934f92fa87
+:END:

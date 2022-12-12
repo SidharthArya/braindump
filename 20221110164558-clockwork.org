@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       fd9a55e6-a780-4850-aa14-1ed0d98ac925
+:END:
+#+title: Clockwork
+
+
+
+* Concepts
+** 4D Mix
++ Doing
++ Deciding
++ Delegating
++ Designing
+
+
+According to Author:
+|------------+------------|
+| 4Ds        | Percentage |
+|------------+------------|
+| Doing      |        80% |
+| Deciding   |         2% |
+| Delegating |         8% |
+| Designing  |        10% |
+|------------+------------|
+
+PO: Should not be absolutely stated, rather it can differ from framework to framework, person to person and organization to organization.
+Knowing yourself/your company should be the first step to optimizing it's 4DMix.
+
+

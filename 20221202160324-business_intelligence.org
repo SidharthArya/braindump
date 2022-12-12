@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f2b2d5da-aa50-41dc-b042-046fa5b2ab48
+:END:
+#+title: Business Intelligence
+
+* References
++ https://github.com/metabase/metabase
++ https://github.com/grafana/grafana

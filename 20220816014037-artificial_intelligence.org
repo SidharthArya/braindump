@@ -17,7 +17,7 @@
 :ID:       8778da5d-ff21-4542-a764-30266f273d28
 :END:
 Machine Learning with [[id:86899d17-2261-48e8-b8aa-9e82ae96808c][Neural Networks]]
-
++ [[id:c972fbd2-f7b0-407f-9389-868c29ab6a75][Vision Transformer]]
 *** Transformers
 :PROPERTIES:
 :ID:       e27ecb8a-6d46-4716-870c-4fc8dee0dbfe
@@ -30,6 +30,7 @@ Machine Learning with [[id:86899d17-2261-48e8-b8aa-9e82ae96808c][Neural Networks
 + https://github.com/heejkoo/Awesome-Diffusion-Models
 + https://github.com/CompVis/stable-diffusion
 + https://github.com/runwayml/stable-diffusion
++ https://github.com/SHI-Labs/Versatile-Diffusion
 * Natural Language Processing
 :PROPERTIES:
 :ID:       1a8b11e9-3668-4bfb-8643-5afd33867a49
@@ -52,3 +53,4 @@ Machine Learning with [[id:86899d17-2261-48e8-b8aa-9e82ae96808c][Neural Networks
 + https://github.com/salesforce/LAVIS
 + https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 + https://github.com/PaddlePaddle/PaddleNLP
++ https://github.com/dair-ai/ML-YouTube-Courses

@@ -12,3 +12,7 @@
 
 * Publicly available reports
 + https://github.com/juliocesarfort/public-pentesting-reports
+
+
+* Forensic Tools
++ https://github.com/cugu/awesome-forensics
