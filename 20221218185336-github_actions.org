@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       bde2b59a-f00a-4d07-a0ee-2e1ecaff353e
+:END:
+#+title: Github Actions
+
+* References
++ https://github.com/nektos/act

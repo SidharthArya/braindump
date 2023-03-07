@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       28abff12-227c-4919-b643-72c4d200178e
+:END:
+#+title: Tiny Habits
+
+"[[id:78bfe934-b30d-4091-9788-7a7a635703ca][Behavior]] (B) happens when [[id:9c31566e-5761-4457-b1b3-b5fc66e148cc][Motivation]] (M), [[id:5253ca4a-55ef-44fd-ac63-3b48fead46ec][Ability]] (A), and a [[id:bfca244f-0f30-410d-b9f6-6e3fbd377d45][Prompt]] (P) come together at the same moment."

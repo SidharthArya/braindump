@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       bfca244f-0f30-410d-b9f6-6e3fbd377d45
+:END:
+#+title: Prompt
+

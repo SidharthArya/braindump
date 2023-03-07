@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2e4a62c9-8466-45b7-a0dd-a9a416dd7bdb
+:END:
+#+title: Assembly Language
+
+* References
++ https://github.com/pkivolowitz/asm_book

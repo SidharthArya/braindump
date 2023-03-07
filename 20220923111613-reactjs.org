@@ -1,9 +1,13 @@
 :PROPERTIES:
 :ID:       f4b6671d-64e9-4b2f-bbf7-b7d85d6f589e
+:ROAM_ALIASES: React
 :END:
 #+title: Reactjs
 
 
 [[id:4b0fcbdd-1d38-428f-96e7-f6858b77237b][Frontend]] framework based on [[id:a19ea885-8ede-481f-8f87-f2d760c16da2][Javascript]]
+* State Management
+** Resources
++ https://github.com/pmndrs/zustand
 * References
 + [[https://github.com/sudheerj/reactjs-interview-questions][reactjs-interview-questions]]

@@ -3,5 +3,12 @@
 :END:
 #+title: Rust
 
+[[id:f9a98e92-c402-4cf7-905a-73701771ea3b][Statically Typed]]
+
+* Dataframe Handling
+** Libraries
++ https://github.com/pola-rs/polars
+
 * Resources
 + https://github.com/TheAlgorithms/Rust
++ https://github.com/google/comprehensive-rust

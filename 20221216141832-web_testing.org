@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3a2d961d-e2dd-4833-b2b1-e390746e0628
+:END:
+#+title: Web Testing
+
+* Examples
++ https://github.com/microsoft/playwright

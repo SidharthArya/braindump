@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e5c72d92-ace3-4266-9a84-9056c1b6791f
+:ROAM_ALIASES: "C Sharp"
+:END:
+#+title: C#
+

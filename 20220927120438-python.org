@@ -12,3 +12,4 @@
 + https://github.com/jackfrued/Python-100-Days
 + https://github.com/Asabeneh/30-Days-Of-Python
 + https://github.com/TheAlgorithms/Python
++ https://github.com/norvig/pytudes

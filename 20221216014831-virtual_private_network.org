@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0d4bccf9-4fac-4c1b-9c21-ff375256c1c9
+:ROAM_ALIASES: VPN
+:END:
+#+title: Virtual Private Network
+

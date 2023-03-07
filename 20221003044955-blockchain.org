@@ -8,6 +8,11 @@
 * TODO Starknet
 What is cairo ?
 
+* Smart Contracts
+:PROPERTIES:
+:ID:       87045938-4bc7-472d-af9b-ba9191fd27eb
+:END:
+Smart contracts are simply programs stored on a blockchain that run when predetermined conditions are met. They typically are used to automate the execution of an agreement so that all participants can be immediately certain of the outcome, without any intermediary's involvement or time loss. They can also automate a workflow, triggering the next action when conditions are met.
 * Ressources
 + https://github.com/aptos-labs/aptos-core
 + https://github.com/ethereum-lists/chains

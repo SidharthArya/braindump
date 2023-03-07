@@ -5,3 +5,11 @@
 
 * Single Interface for all cloud platforms
 + https://github.com/turbot/steampipe
+
+
+* Cloud Security
+:PROPERTIES:
+:ID:       2e8781a3-4a45-4acb-b81e-7b630cdfe953
+:END:
+** Resources
++ https://github.com/prowler-cloud/prowler

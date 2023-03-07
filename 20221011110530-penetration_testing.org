@@ -13,6 +13,9 @@
 * Publicly available reports
 + https://github.com/juliocesarfort/public-pentesting-reports
 
-
 * Forensic Tools
 + https://github.com/cugu/awesome-forensics
+
+* Resources
++ https://github.com/Anugrahsr/Awesome-web3-Security
+>>>>>>> Stashed changes

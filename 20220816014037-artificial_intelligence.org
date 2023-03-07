@@ -5,6 +5,9 @@
 #+filetags: :AI:
 
 
+
+* [[id:87b2b54c-e27c-496f-9c1f-f76041aac97c][Deep Learning]]
+
 * Machine Learning
 :PROPERTIES:
 :ID:       6f5297ea-788e-42db-ad0f-9eeb69c52de1
@@ -18,6 +21,9 @@
 :END:
 Machine Learning with [[id:86899d17-2261-48e8-b8aa-9e82ae96808c][Neural Networks]]
 + [[id:c972fbd2-f7b0-407f-9389-868c29ab6a75][Vision Transformer]]
+=======
+
+
 *** Transformers
 :PROPERTIES:
 :ID:       e27ecb8a-6d46-4716-870c-4fc8dee0dbfe
@@ -49,8 +55,9 @@ Machine Learning with [[id:86899d17-2261-48e8-b8aa-9e82ae96808c][Neural Networks
 
 * TODOS
 + https://github.com/FedML-AI/FedML
-** Resources
+* Resources
 + https://github.com/salesforce/LAVIS
 + https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 + https://github.com/PaddlePaddle/PaddleNLP
 + https://github.com/dair-ai/ML-YouTube-Courses
++ https://github.com/louisfb01/best_AI_papers_2022

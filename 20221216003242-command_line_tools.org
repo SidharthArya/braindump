@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d5faaa47-2b4b-45e7-be4d-cd76631854c8
+:END:
+#+title: Command Line Tools
+
+* Markdown
++ https://github.com/charmbracelet/glow

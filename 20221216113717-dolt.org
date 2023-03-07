@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c9b41e0c-1ff0-43f3-a738-baa70fe86920
+:ROAM_REFS: https://github.com/dolthub/dolt
+:END:
+#+title: dolt
+#+filetags: :TODO:
+
+Git for data

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d45d4e04-0314-4bf2-afc6-a8adceb600d7
+:ROAM_ALIASES: "Continuous Integration/Continuous Deployment"
+:END:
+#+title: CI/CD
+

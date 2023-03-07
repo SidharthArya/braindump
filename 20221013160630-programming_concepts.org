@@ -4,8 +4,16 @@
 #+title: Programming Concepts
 
 * Type Safe
+:PROPERTIES:
+:ID:       fe2d830b-7f5f-495d-8c09-f2e29b76bde5
+:END:
 
  type safety and type soundness are the extent to which a programming language discourages or prevents type errors.
+* Statically Typed
+:PROPERTIES:
+:ID:       f9a98e92-c402-4cf7-905a-73701771ea3b
+:END:
+
 * Resources
 + https://github.com/itdevbooks/pdf
 + https://github.com/forthespada/CS-Books

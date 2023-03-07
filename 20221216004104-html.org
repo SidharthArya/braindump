@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5126bb99-0f6b-4d7f-b9d3-eddef0f332f6
+:ROAM_ALIASES: "Hyper Text Transfer Protocol"
+:END:
+#+title: HTML
+

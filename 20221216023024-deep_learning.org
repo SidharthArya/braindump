@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8778da5d-ff21-4542-a764-30266f273d28
+:END:
+#+title: Deep Learning
+
+Machine Learning with [[id:86899d17-2261-48e8-b8aa-9e82ae96808c][Neural Networks]]
+
+* Applications
+[[./images/1671106933371.jpg]]
+* Resources
++ https://github.com/labmlai/annotated_deep_learning_paper_implementations

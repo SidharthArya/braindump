@@ -5,3 +5,4 @@
 
 * Resources
 + https://github.com/ayush714/data-science-roadmap
++ https://github.com/khuyentran1401/Data-science

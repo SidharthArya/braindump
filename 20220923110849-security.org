@@ -20,7 +20,7 @@
 + https://github.com/HavocFramework/Havoc
 + https://github.com/wazuh/wazuh
 + https://www.v2ray.com/en/ - Project V for building your own private network
-
++ https://github.com/google/osv-scanner
 
 ** References
 + [[https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist][Awesome-Application-Security-Checklist]]

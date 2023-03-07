@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       406808c7-6c84-4309-9967-d1fc4f40e241
+:END:
+#+title: Video Editin
+
+* Resources
++ https://github.com/mifi/lossless-cut
