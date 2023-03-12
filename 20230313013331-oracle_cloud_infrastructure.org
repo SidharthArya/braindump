@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       D40E9643-AF0A-4383-90DC-BDECAE5EFC8B
+:END:
+#+title: Oracle Cloud Infrastructure
+

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5D587E9E-0B00-46F6-B20C-6FAA065A574D
+:END:
+#+title: Cloud Providers
+
+
++ [[id:015B24DB-BCBF-4772-ADF4-2E2CFB9E3D22][Google Cloud]]
++ [[id:5fb34862-c35c-4772-a086-0bb7201f2f50][Amazon Web Services]]
++ [[id:585A6E9C-D6D2-4E91-8348-5D1C89178C46][Hetzner]]
++ [[id:D40E9643-AF0A-4383-90DC-BDECAE5EFC8B][Oracle Cloud Infrastructure]]

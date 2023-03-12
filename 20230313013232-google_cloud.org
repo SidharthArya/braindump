@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       015B24DB-BCBF-4772-ADF4-2E2CFB9E3D22
+:END:
+#+title: Google Cloud
+
