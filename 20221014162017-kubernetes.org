@@ -6,3 +6,7 @@
 * Load Balancer
 ** Examples
 + https://github.com/metallb/metallb
+* Autoprovisioning
+:PROPERTIES:
+:ID:       81055A3E-7150-49FF-ACF6-314F882129EC
+:END:

@@ -3,3 +3,8 @@
 :END:
 #+title: Google Cloud
 
+* Google Kubernetes Engine
+:PROPERTIES:
+:ID:       F405FC2A-65FC-441C-BCAB-3B65D7656026
+:ROAM_ALIASES: GKE
+:END:
