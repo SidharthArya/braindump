@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       B57C512A-A5B6-426F-B63A-F47F5618372B
+:ROAM_ALIASES: cv2
+:END:
+#+title: OpenCV
+
+[[id:94fbe78e-4fa8-44c6-8d58-4e28cbb4d091][Computer Vision]] Library.
+
+* Haar Cascade Training
++ https://github.com/mrnugget/opencv-haar-classifier-training

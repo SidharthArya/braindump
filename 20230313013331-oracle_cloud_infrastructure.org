@@ -3,3 +3,4 @@
 :END:
 #+title: Oracle Cloud Infrastructure
 
+[[id:5D587E9E-0B00-46F6-B20C-6FAA065A574D][Cloud Providers]] by [[id:EA785A70-25BB-4B54-9DE6-459C56E37102][Oracle]]

@@ -3,6 +3,8 @@
 :END:
 #+title: Google Cloud
 
+
+[[id:5D587E9E-0B00-46F6-B20C-6FAA065A574D][Cloud Provider]] by [[id:7e075b5d-67ab-495b-a167-07cf5af0d2f0][Google]]
 * Google Kubernetes Engine
 :PROPERTIES:
 :ID:       F405FC2A-65FC-441C-BCAB-3B65D7656026

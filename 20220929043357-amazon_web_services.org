@@ -3,3 +3,5 @@
 :END:
 #+title: Amazon Web Services
 
+
+[[id:5D587E9E-0B00-46F6-B20C-6FAA065A574D][Cloud Providers]] by [[id:E78E0DEB-9519-43E0-AA4F-D59D6D535775][Amazon]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7AB3A9F5-0A34-4B4E-9655-7D6419B30892
+:END:
+#+title: RabbitMQ
+#+filetags: :Messaging:
+
