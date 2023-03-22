@@ -3,5 +3,7 @@
 :END:
 #+title: Github Actions
 
+[[id:d45d4e04-0314-4bf2-afc6-a8adceb600d7][CI/CD]] by [[id:7EAD2D43-95B8-4B5F-A56E-7BB709A2A070][Github]]
+
 * References
 + https://github.com/nektos/act

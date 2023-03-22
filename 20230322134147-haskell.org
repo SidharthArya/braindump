@@ -1,9 +1,7 @@
 :PROPERTIES:
-:ID:       e5c72d92-ace3-4266-9a84-9056c1b6791f
-:ROAM_ALIASES: "C Sharp"
+:ID:       3285782F-784E-4753-AD76-A00563D11F72
 :END:
-#+title: C#
-
+#+title: Haskell
 
 * Features
 + [[id:f9a98e92-c402-4cf7-905a-73701771ea3b][Statically Typed]]

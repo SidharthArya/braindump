@@ -3,5 +3,8 @@
 :END:
 #+title: Go
 
+* Features
++ [[id:f9a98e92-c402-4cf7-905a-73701771ea3b][Statically Typed]]
+
 * Resources
 + [[https://github.com/inancgumus/learngo][learngo]]
