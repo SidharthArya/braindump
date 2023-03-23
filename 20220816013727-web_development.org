@@ -11,7 +11,10 @@
 :PROPERTIES:
 :ID:       4b0fcbdd-1d38-428f-96e7-f6858b77237b
 :END:
-
+** Image Loading
+*** Resources
++ https://github.com/woltapp/blurhash
++ https://github.com/evanw/thumbhash
 
 ** TODO Web Assembly
 :PROPERTIES:
