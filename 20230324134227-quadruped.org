@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       A5861B20-C5BB-40F9-AC20-9D2D122230E4
+:END:
+#+title: Quadruped
+#+filetags: :Robotics:
+
+Mobile [[id:C496948D-57AD-4489-A495-0B7FF2AF92F5][Robotics]]
