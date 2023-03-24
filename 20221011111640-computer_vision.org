@@ -4,6 +4,19 @@
 #+title: Computer Vision
 
 
+* Operations
+** Threshold
+:PROPERTIES:
+:ID:       C93B8996-C65E-4F5C-9D1E-B19F2D95D704
+:END:
+*** Adaptive Threshold
+:PROPERTIES:
+:ID:       59D61013-7232-454B-A057-F75989CD6D9F
+:END:
+*** Otsu's Threshold
+:PROPERTIES:
+:ID:       A30BB013-5094-48D4-871E-D2E92FF66120
+:END:
 * Tasks
 ** Face Restoration
 :PROPERTIES:
@@ -11,3 +24,5 @@
 :END:
 *** Resources
 + https://github.com/TencentARC/GFPGAN
+
+
