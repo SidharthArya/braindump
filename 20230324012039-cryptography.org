@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       A78F754A-D033-4180-88EC-30922E14696F
+:END:
+#+title: Cryptography
+
+* Tools
++ https://github.com/chidiwilliams/buzz

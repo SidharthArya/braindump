@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       69BCDE9C-B9D8-4302-AEDC-091CBAA70139
+:END:
+#+title: Kibana
+
