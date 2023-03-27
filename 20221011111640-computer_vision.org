@@ -24,5 +24,3 @@
 :END:
 *** Resources
 + https://github.com/TencentARC/GFPGAN
-
-
