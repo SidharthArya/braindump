@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0F2ACFFF-274E-4D0B-8C63-A413703F70D5
+:ROAM_REFS: https://github.com/terrastruct/d2
+:END:
+#+title: D2
+
