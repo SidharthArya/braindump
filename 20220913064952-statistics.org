@@ -7,6 +7,10 @@
 :PROPERTIES:
 :ID:       ee33590d-7479-4aa4-8507-cedaf0fd1dfb
 :END:
+** Measure of Distance
+:PROPERTIES:
+:ID:       C0C92B8B-005C-4056-8F1F-B2A6D9DE3440
+:END:
 ** R squared
 :PROPERTIES:
 :ID:       e4d52215-7deb-4ee0-833b-bde5718120d3
