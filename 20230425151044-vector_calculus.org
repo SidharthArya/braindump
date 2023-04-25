@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0D3F378D-5CFD-4D33-8C61-8C480AB9B0C7
+:END:
+#+title: Vector Calculus
+
+* Components
+** Vector
+:PROPERTIES:
+:ID:       41FC409A-D4DB-4989-9CE3-2227C2572E4C
+:END:
+* Operations
+** Dot Product
+:PROPERTIES:
+:ID:       72465F20-B16B-4212-986C-36E775F46553
+:END:
+~a.b = |a||b|cos \theta~
+
+** Cross Product
+:PROPERTIES:
+:ID:       BA67A13A-BB7A-4A1F-9FA6-73AD8D3FC262
+:END:
+~axb = |a||b|sin \theta n~
