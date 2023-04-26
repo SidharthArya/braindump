@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5D8BBE83-75BD-4AD9-8FBF-C2F46DD6B9F7
+:END:
+#+title: Neomorphism
+#+filetags: :Design:
+
