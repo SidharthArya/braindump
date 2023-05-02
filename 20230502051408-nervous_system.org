@@ -9,7 +9,12 @@
 :ID:       143AAC25-942D-46B1-8EB8-97E49C2F5312
 :ROAM_ALIASES: PNS
 :END:
-
+** Spinal Nerves
+:PROPERTIES:
+:ID:       E5455642-6E88-4934-89F3-748FAC97D3DA
+:END:
+motor and sensory fibres, as well as autonomic fibres, and exist as 31 pairs of nerves emerging intermittently from the spinal cord to exit the vertebral canal.
+*** 
 * Central Nervous System
 :PROPERTIES:
 :ID:       3829DC92-9240-4018-9534-179BDFFAE3B9
