@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       4E091C1B-030D-4445-B217-4CD3FBF28AF4
+:END:
+#+title: Muscular System
+
+* Muscles
+:PROPERTIES:
+:ID:       F5C3055C-2715-48C3-82D8-622F872B74E2
+:END:
+** Skeletal Muscle
+:PROPERTIES:
+:ID:       96A46695-7E89-4B4F-8A86-32B1A8900043
+:END:
+*** Lumbrical Muscles
+:PROPERTIES:
+:ID:       4320AC3A-DC33-4FA9-A092-5B07917BD9B6
+:END:
+
+function of these muscles is flexion at the respective [[id:16C14683-4119-4EAF-ADA5-CBA7C3CCA932][Metacarpophalangeal Joint]] and extension at the proximal [[id:BFEFED7B-DAE2-4D07-AED0-B634F133F0A7][Interphalangeal Joint]] and [[id:9AD212E9-DDBB-4786-AE3D-EEA22202BFA1][Distal Interphalangeal Joints]].
+** Smooth Muscle
+:PROPERTIES:
+:ID:       6A4F834F-586E-4320-9C2D-49CB7431045E
+:END:
+** Cardiac Muscle
+:PROPERTIES:
+:ID:       57126575-187A-481F-9751-C5716DAE6863
+:END:
