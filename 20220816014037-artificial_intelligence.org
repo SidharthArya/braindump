@@ -62,3 +62,5 @@ Machine Learning with [[id:86899d17-2261-48e8-b8aa-9e82ae96808c][Neural Networks
 + https://github.com/dair-ai/ML-YouTube-Courses
 + https://github.com/louisfb01/best_AI_papers_2022
 + https://github.com/microsoft/ML-For-Beginners
+* References
++ https://github.com/ml-tooling/best-of-ml-python
