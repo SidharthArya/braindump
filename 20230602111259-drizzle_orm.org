@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4D339380-FC7A-4E98-A13C-10A46A7AC20D
+:END:
+#+title: Drizzle ORM
+
+[[id:BCC5CA59-D8FB-4937-A559-1A18892D1ECF][Object Relational Mapping]] for [[id:2dc4305a-65b9-499e-81df-620054e6f507][Typescript]]

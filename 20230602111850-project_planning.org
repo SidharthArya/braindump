@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8C9262BC-F961-48BA-9C19-A93A8E42C396
+:END:
+#+title: Project Planning
+
+* Tools
++ https://github.com/makeplane/plane

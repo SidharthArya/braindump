@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       BCC5CA59-D8FB-4937-A559-1A18892D1ECF
+:END:
+#+title: Object Relational Mapping
+#+filetags: :ORM:
+
