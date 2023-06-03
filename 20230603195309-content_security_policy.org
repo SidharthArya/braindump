@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       F1F4319C-3B3A-401F-A456-53ACAEA5A05D
+:END:
+#+title: Content Security Policy
+
+* References
++ https://csp.withgoogle.com/docs/index.html
