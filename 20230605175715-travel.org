@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A843C258-64D9-429E-AC3D-D50B3E98D724
+:END:
+#+title: Travel
+
+* Insights
+** Resources
++ https://destinationinsights.withgoogle.com/intl/en_ALL/

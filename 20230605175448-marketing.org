@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       B79B2776-2031-4EAE-A38C-89719FF955C3
+:END:
+#+title: Marketing
+
+* Inclusive Marketing                                                  :TODO:
+:PROPERTIES:
+:ID:       0C4581F8-C8E4-438C-B465-D685323C8D68
+:END:
+** References
++ https://all-in.withgoogle.com/
