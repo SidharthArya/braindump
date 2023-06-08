@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7A69DD3C-E8F6-402F-A151-7685849AAAAE
+:END:
+#+title: OpenAI
+#+filetags: :Company:
+
+CEO: [[id:31EB1CF5-8CD0-4843-B03A-49FE79B59F76][Sam Altman]]
