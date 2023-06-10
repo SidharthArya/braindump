@@ -8,4 +8,9 @@
 + https://speaktogo.withgoogle.com/
 + https://aiyprojects.withgoogle.com/maker/
 + https://semiconductor.withgoogle.com/
-+ 
++ https://visualblocks.withgoogle.com/#/demo
++ https://britishmuseum.withgoogle.com/
+  
+
+* Try
+** TODO https://github.com/google/visualblocks
