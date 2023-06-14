@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E87B880E-83DE-4110-ADB7-9FF9A244EAB8
+:ROAM_ALIASES: Sklearn
+:END:
+#+title: Scikit Learn
+
+* Preprocessing
+** StandarScalar
+Scales data using formula
+z = (x-u)/s
