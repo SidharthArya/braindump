@@ -10,7 +10,10 @@
 + https://semiconductor.withgoogle.com/
 + https://visualblocks.withgoogle.com/#/demo
 + https://britishmuseum.withgoogle.com/
-  
++ https://skillshop.withgoogle.com/
++ https://experiments.withgoogle.com/
++ https://learndigital.withgoogle.com/digitalgarage/
++ 
 
 * Try
 ** TODO https://github.com/google/visualblocks
