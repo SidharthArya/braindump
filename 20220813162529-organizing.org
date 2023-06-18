@@ -3,9 +3,21 @@
 :END:
 #+title: Organizing
 
-* Thoughts
-** Zettelkasten Method
+* Zettelkasten Method
 :PROPERTIES:
 :ID:       cab366f8-6204-4dbb-a201-35f807bd3423
 :END:
 attributed to [[id:675c9491-07c3-44a8-80ca-c5dbd561da99][Niklas Luhmann]]
+
+
+* SQ3R Method
+:PROPERTIES:
+:ID:       97A2D632-BA26-4181-A314-8795A63C4578
+:END:
+
++ Survey
++ Question
++ Read
++ Recite
++ Review
+** TODO Get some references and use cases
