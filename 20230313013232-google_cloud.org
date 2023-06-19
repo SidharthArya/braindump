@@ -10,3 +10,6 @@
 :ID:       F405FC2A-65FC-441C-BCAB-3B65D7656026
 :ROAM_ALIASES: GKE
 :END:
+* Resources
++ www.cloudskillsboost.google
++ https://showcase.withgoogle.com/

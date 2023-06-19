@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       C8F06926-B6CE-4C4F-B1CB-ADBB346D9AAB
+:END:
+#+title: Wordpress
+
+* Plugins
++ https://sitekit.withgoogle.com/

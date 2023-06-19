@@ -7,5 +7,12 @@
 :PROPERTIES:
 :ID:       0C4581F8-C8E4-438C-B465-D685323C8D68
 :END:
+
+
 ** References
 + https://all-in.withgoogle.com/
+* Resources
++ https://marketingkit.withgoogle.com/intl/en-US/r/IN
++ https://publishersonair.withgoogle.com/
++ https://partnersdirectory.withgoogle.com/?premier=true
++ https://digitalmaturitybenchmark.withgoogle.com/en/advertisers/

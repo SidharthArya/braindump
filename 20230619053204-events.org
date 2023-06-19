@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       58BF6F51-0C6D-4EAC-B5F6-65E76C3A4D45
+:END:
+#+title: Events
+
+* Programming
++ https://developers.google.com/events

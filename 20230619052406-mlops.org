@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       E2F7919A-C361-432D-AB2E-E7482F066C75
+:END:
+#+title: MLOps
+
+* References
++ https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack

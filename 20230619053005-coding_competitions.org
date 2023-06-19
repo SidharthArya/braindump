@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9E38EA58-8F03-43D1-BF99-56503328320C
+:END:
+#+title: Coding Competitions
+
++ https://codingcompetitions.withgoogle.com/

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0AEBF96E-06CB-4034-AC3B-3EB61955C44C
+:END:
+#+title: Datasets
+
+* Resources
++ https://knowyourdata-tfds.withgoogle.com/

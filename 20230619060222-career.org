@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       A1A3A560-0DF8-4589-A803-72A8DFC5D42F
+:END:
+#+title: Career
+
+* Resources
++ https://careersonair.withgoogle.com/

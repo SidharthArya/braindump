@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       324B930A-D853-455C-815C-B6F21FEEB513
+:ROAM_ALIASES: Postgres
+:END:
+#+title: Postgresql
+
+[[id:b693cef8-63e5-4093-bbfd-4c8dc51b7762][Database]] System

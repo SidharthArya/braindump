@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6D42B670-A0A9-47F5-B76A-6F5FEB256C5C
+:END:
+#+title: Climate
+
+* Make A change
++ https://impactchallenge.withgoogle.com/climate2022/faq
+* Resources
++ https://artsexperiments.withgoogle.com/impactfilter/

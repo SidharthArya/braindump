@@ -31,5 +31,9 @@
 + https://github.com/novuhq/novu
 
 
+
+* Software
++ https://webdesigner.withgoogle.com/
 * Resources
 + https://github.com/jhu-ep-coursera/fullstack-course4
++ https://googlecloudcheatsheet.withgoogle.com/architecture

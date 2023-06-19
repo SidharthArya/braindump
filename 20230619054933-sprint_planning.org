@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       DC3B9B35-1953-41EA-B492-052ECB39FF3A
+:END:
+#+title: Sprint Planning
+
+
+* Resources
++ https://designsprintkit.withgoogle.com/methodology/overview

@@ -4,5 +4,13 @@
 #+title: Google
 
 * Protocol Buffers
+
+
 ** References
 + https://github.com/protocolbuffers/protobuf
+* Pixel
+:PROPERTIES:
+:ID:       DA755496-D150-427F-9D7D-D9E59F8A7538
+:END:
+** Resources
++ https://pixel.withgoogle.com/?hl=en

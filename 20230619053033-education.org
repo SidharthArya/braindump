@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5228E7F1-FA8E-499E-8B87-A92341E57503
+:END:
+#+title: Education
+
++ https://edu.google.com/
++ https://csfirst.withgoogle.com/s/en/home
++ https://techdevguide.withgoogle.com/
++ https://edudirectory.withgoogle.com/
