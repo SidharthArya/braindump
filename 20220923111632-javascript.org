@@ -4,7 +4,18 @@
 #+title: Javascript
 
 * Web APIS
+* Tricks
+** Get full path of current inspected element
+#+begin_src javascript
+  crumb = function(node) {
+  var idOrClass = (node.id && "#"+node.id) || (""+node.classList && (" "+node.classList).replace(/ /g, "."));
+  return node.tagName.toLowerCase() + idOrClass;};
+  crumbPath = function(node) {return node.parentNode ? crumbPath(node.parentNode).concat(crumb(node)) : [];};
+  crumbPath($0);
+  @SidharthArya
 
+
+#+end_src
 * References
 + [[https://github.com/lydiahallie/javascript-questions][javascript-questions]]
 + [[https://github.com/TheAlgorithms/JavaScript][Javascript Algorithms]]
