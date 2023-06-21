@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8CCBD2CA-980F-4D18-9978-5B92DADFDD67
+:END:
+#+title: Autonomous Driving
+
+* Levels
+** L0
+:PROPERTIES:
+:ID:       4F8CC667-1E13-4285-9EA4-8648AB5DA64E
+:END:
+No automation
+** L1
+** L2
+** L3
+** L4
+** L5
+** L6

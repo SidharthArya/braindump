@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5ECCC714-1C16-4A38-91B5-A6A49C0A09B7
+:END:
+#+title: SUSE
+
+A [[id:56a9b5ff-a716-4e66-a881-335f689a2518][Linux]] Distribution

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1C2F228F-3D1A-4098-9677-477FD25FFD1C
+:END:
+#+title: Pandas
+#+filetags: :Python:
+
+[[id:ed4c1cd6-7231-4a4d-a894-d54596bb8e6a][Python]] based dataframe

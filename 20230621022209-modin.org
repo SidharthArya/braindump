@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       95767F08-FC92-40DF-AF2B-C1B6FA2A389E
+:END:
+#+title: Modin
+
+Scale [[id:1C2F228F-3D1A-4098-9677-477FD25FFD1C][Pandas]] using a single line of code

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       940BF58A-B740-4012-B727-5755BDCB327D
+:END:
+#+title: Rancher
+
+
+Delivers [[id:f98a2186-5a92-438e-9563-cfdbea7b829b][Kubernetes]] as a Service

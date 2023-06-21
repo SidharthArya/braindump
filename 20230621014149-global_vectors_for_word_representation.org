@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C749142A-5CDB-4A1C-9077-E329B2746BB2
+:ROAM_ALIASES: GLoVe
+:END:
+#+title: Global Vectors For Word Representation
+
+
+A word representation method by [[id:8B0E3324-0FA0-41F6-9C1C-AFEC6C6B516D][Stanford]]

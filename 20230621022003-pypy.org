@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       DD95F83B-3A54-4645-B62E-4B4AD69D2964
+:END:
+#+title: PyPy
+
+Faster [[id:ed4c1cd6-7231-4a4d-a894-d54596bb8e6a][Python]]
+5 times faster than [[id:4AD732E1-AB89-4C4C-9F84-2F2057BE45B3][Cpython]]

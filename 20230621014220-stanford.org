@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8B0E3324-0FA0-41F6-9C1C-AFEC6C6B516D
+:END:
+#+title: Stanford
+
