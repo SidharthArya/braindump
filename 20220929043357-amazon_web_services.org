@@ -1,7 +1,39 @@
 :PROPERTIES:
 :ID:       5fb34862-c35c-4772-a086-0bb7201f2f50
+:ROAM_ALIASES: AWS
 :END:
 #+title: Amazon Web Services
 
 
 [[id:5D587E9E-0B00-46F6-B20C-6FAA065A574D][Cloud Providers]] by [[id:E78E0DEB-9519-43E0-AA4F-D59D6D535775][Amazon]]
+
+
+* S3
+:PROPERTIES:
+:ID:       C53D6042-B3E9-405E-8DB5-16D3EFEEB72C
+:END:
+
+** S3 Permissions to other user accounts
+
+Bucket -> Permissions
+#+begin_src json
+  				{
+			"Sid": "Someone Permissions",
+			"Effect": "Allow",
+			"Principal": {
+				"AWS": "arn:aws:iam::account-id:root"
+			},
+			"Action": "*",
+			"Resource": "arn:aws:s3:::bucket-name"
+		},
+		{
+			"Sid": "Someone Permissions",
+			"Effect": "Allow",
+			"Principal": {
+				"AWS": "arn:aws:iam::account-id:root"
+			},
+			"Action": "*",
+			"Resource": "arn:aws:s3:::bucket-name/*"
+		}
+
+#+end_src
