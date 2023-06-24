@@ -6,5 +6,12 @@
 * Features
 + [[id:f9a98e92-c402-4cf7-905a-73701771ea3b][Statically Typed]]
 
+* Packages
+** Go version manager
+:PROPERTIES:
+:ID:       EFFAA9CF-9BD2-4F85-A6F1-D497A8E3ECF2
+:ROAM_REFS: https://github.com/moovweb/gvm
+:END:
+
 * Resources
 + [[https://github.com/inancgumus/learngo][learngo]]
