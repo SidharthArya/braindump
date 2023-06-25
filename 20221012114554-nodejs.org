@@ -3,6 +3,29 @@
 :END:
 #+title: Nodejs
 
+* Package Managers
+
+** NPM
+:PROPERTIES:
+:ID:       05951742-F450-419E-B59B-8BAB68E1B3B5
+:END:
+*** Features
++ [[id:D5C19218-E611-4C8E-89A8-6237D66ABAE0][Workspaces]]
+** Yarn
+:PROPERTIES:
+:ID:       EFBDF630-EBA3-4361-853D-1FCBD100E075
+:END:
+*** Features
++ [[id:D5C19218-E611-4C8E-89A8-6237D66ABAE0][Workspaces]]
+** PNPM
+:PROPERTIES:
+:ID:       C5DCF650-90EE-490C-AC50-1EF2E23C8B95
+:END:
+*** Features
++ [[id:D5C19218-E611-4C8E-89A8-6237D66ABAE0][Workspaces]]
+
+** Resources
++ Features Comparison - https://pnpm.io/feature-comparison
 * References
 + https://github.com/goldbergyoni/nodebestpractices
 + https://github.com/jonasschmedtmann/complete-node-bootcamp

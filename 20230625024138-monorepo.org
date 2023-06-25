@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0D944A90-1653-42D6-AA2B-32831735E652
+:END:
+#+title: Monorepo
+
+* Features
+** Workspaces
+:PROPERTIES:
+:ID:       D5C19218-E611-4C8E-89A8-6237D66ABAE0
+:END:

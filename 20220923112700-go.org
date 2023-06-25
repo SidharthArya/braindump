@@ -11,6 +11,7 @@
 :PROPERTIES:
 :ID:       EFFAA9CF-9BD2-4F85-A6F1-D497A8E3ECF2
 :ROAM_REFS: https://github.com/moovweb/gvm
+:ROAM_ALIASES: gvm
 :END:
 
 * Resources
