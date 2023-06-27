@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       206773B3-F444-49E0-BE6A-8347CDC26B6A
+:END:
+#+title: LLMs
+
+
+* Datasets
++ https://commoncrawl.org/the-data/get-started/
++ https://huggingface.co/datasets/tiiuae/falcon-refinedweb
