@@ -3,6 +3,13 @@
 :END:
 #+title: Database
 
+* Types
+** Time Series Database
+:PROPERTIES:
+:ID:       66FC807D-1459-4374-A08D-E5FA7AEAF9AD
+:END:
+
+
 * Benchmarks
 + https://h2oai.github.io/db-benchmark/
 * Migration

@@ -7,3 +7,14 @@
 :PROPERTIES:
 :ID:       235F82EB-2A43-44CF-914C-6E741F5B7734
 :END:
+
+* Browser Support
+:PROPERTIES:
+:ID:       FBA97F4D-7A80-490F-9216-6F1D5FECB4B4
+:END:
++ https://caniuse.com/
+* Browser Testing
+:PROPERTIES:
+:ID:       B3F6E9E2-566E-4A49-AD8F-3479A30B0167
+:END:
++ https://www.browserstack.com/
