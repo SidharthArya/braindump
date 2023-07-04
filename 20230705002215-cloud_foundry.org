@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       732D3DF3-321B-439F-B131-A2AAD706B59D
+:END:
+#+title: Cloud Foundry
+
+[[id:A7938EE0-2DF4-4C4D-A6D6-5840AF529357][Platform As a Service]]

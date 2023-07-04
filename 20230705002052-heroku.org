@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       D34757F1-EED3-40C3-B3E5-9BA1AA5F39FF
+:END:
+#+title: Heroku
+
+
+[[id:A7938EE0-2DF4-4C4D-A6D6-5840AF529357][Platform As a Service]]

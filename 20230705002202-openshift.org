@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       DFE88122-BC21-4D51-9508-1DD3940F39CA
+:END:
+#+title: OpenShift
+
+[[id:A7938EE0-2DF4-4C4D-A6D6-5840AF529357][Platform As a Service]]

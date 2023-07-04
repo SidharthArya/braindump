@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       A7938EE0-2DF4-4C4D-A6D6-5840AF529357
+:ROAM_ALIASES: PaaS
+:END:
+#+title: Platform As a Service
+
