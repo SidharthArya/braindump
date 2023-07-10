@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1BD6CDAD-9E4D-419A-9408-3145913F4AED
+:END:
+#+title: FLP Impossibility Theorem
+
+
+In an asynchronous system, it is impossible to design a deterministic consensus algorithm that can satisfy agreement, termination, and fault tolerance.
