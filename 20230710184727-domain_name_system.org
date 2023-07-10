@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2B4EC81E-CFF7-4655-B36C-C6B35E9DE7D0
+:END:
+#+title: Domain Name System
+
