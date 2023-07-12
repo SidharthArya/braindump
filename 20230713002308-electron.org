@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       DCE80C52-572E-4C0F-A165-740F90F6D3A8
+:END:
+#+title: Electron
+
+Electron is a framework for building desktop applications using JavaScript, HTML, and CSS.
+
++ [[id:235F82EB-2A43-44CF-914C-6E741F5B7734][Chromium Based]]
++ [[id:d060bd9a-059b-47c0-ac36-632c11686dce][Nodejs]]
