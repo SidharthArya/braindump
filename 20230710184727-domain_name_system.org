@@ -3,3 +3,9 @@
 :END:
 #+title: Domain Name System
 
+* DKIM Record
+:PROPERTIES:
+:ID:       F2EA7AF3-B561-4D73-81B8-24CB16F985FE
+:ROAM_ALIASES: DKIM "Domain Key Identified Mail"
+:END:
+DomainKeys Identified Mail (DKIM) is a method of email authentication that helps prevent spammers and other malicious parties from impersonating a legitimate domain.
