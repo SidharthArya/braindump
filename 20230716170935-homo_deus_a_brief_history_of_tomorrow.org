@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5D0C1C3D-0B3F-42A9-BF7D-99353EF2FFB4
+:END:
+#+title: Homo Deus A Brief History of Tomorrow
+By [[id:692FF695-0E9E-41D8-BF66-D307DD52D1FA][Yuval Noah Harari]]

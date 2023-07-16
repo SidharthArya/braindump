@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       02778D55-8A77-41F5-B2C1-3872F9EF2AE3
+:END:
+#+title: Sapiens A brief history of humankind
+By [[id:692FF695-0E9E-41D8-BF66-D307DD52D1FA][Yuval Noah Harari]]
+
+* The Cognitive Revolution
+** An Animal of No Significance
++ Introduced [[id:579AAEB8-AE15-43EB-B236-3D2ED01648DE][Homo floresiensis]] ,[[id:31D477D0-7C82-42CC-AC10-45CE50CAAE7C][Homo Soloensis]], [[id:656669FF-A628-4AF9-8268-C9D601F7A832][Homo ergaster]], [[id:8ECD7259-F2AF-4300-92CF-D14655525655][Homo Sapiens]], [[id:B1A42466-DC75-42D4-915E-106A0E0F01FC][Homo denisova]], [[id:B5128E08-7943-4DFF-8DD6-96F3D2226E4B][Homo Erectus]], [[id:D717337E-9D01-4343-81DC-691F83822C23][Homo Rudolfensis]], [[id:E1B13809-4FE0-41B2-809B-C5D3562D7ABE][Homo Neanderthals]]
++ [[id:6D546C18-9467-4802-8E9B-E28B5D6F1BDA][Replacement Theory]], [[id:EF638429-0FB8-4C6E-B7CD-DE491F6610B5][Interbreeding Theory]]
